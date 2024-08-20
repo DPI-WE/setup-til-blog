@@ -35,5 +35,6 @@ A great source of TIL blog posts are answers to questions you've asked and other
 ### 3. Keep track of everyone's TIL blogs on [news.dpi.dev](https://news.dpi.dev).
 Someone else might have already written the answer to your question!
 
+### 4. Get Started
 <!-- TODO: write a question -->
 Submit the URL of your learning journal. It will look something like "https://dev.to/demostudent18"
