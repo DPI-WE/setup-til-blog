@@ -1,23 +1,39 @@
-# Replace with lesson title
+# Setup your TIL (today I learned) Blog
 
-Add your content here!
+## Why?
+Keeping a learning journal is extremely valuable for software developers, for many reasons:
 
-[Read up here for full instructions with examples for lesson writing.](https://learn.firstdraft.com/lessons/3-how-to-write-a-lesson)
+- Writing about what you’re doing helps clarify and internalize it.
+- The post serves as documentation for the code, for teammates and your future self.
+- When you inevitably have to do the same task again six months or two years later, you’ve written a cheat sheet for yourself.
+- It looks great to prospective employers, demonstrating both writing and technical ability, among other things.
 
-## Heading 1
+We call these "TIL blogs" or "TILs" — short for "Today I Learned". It isn't meant to be a blog where you're publishing brand new ideas that no one has ever thought of before — instead, they're just notes to your future self. (But I do learn about a lot of new stuff by reading students' TIL blogs, even after all these years.)
 
-Use `##` second or greater level headings (HTML `<h2>` and greater).
+Here are a few learning journals from past trainees:
 
-### Heading 1.1
+- [Samuel Lubliner](https://dev.to/samuellubliner)
+- [Josseph Downs](https://dev.to/jdowns525)
+- [Aldo Portillo](https://dev.to/aldoportillo)
+- [Anna Villarreal](https://dev.to/annavi11arrea1)
+- [Felix Imbanga](https://dev.to/feelo31)
+- [Kat Jarboe](https://dev.to/melo616)
+- [Mary Webby](https://dev.to/marywebby)
 
-Reference images from the `assets/` folder like so:
+We're going to use [dev.to](https://dev.to) for our blogs, for now. (In the future you can consider building your own blog — that would be a good exercise.)
 
-```
-![](assets/example-image.png)
-```
+## How
 
-You can use the path `/assets/my-image.png` or `assets/my-image.png`, both will render in your local markdown preview; and when you connect the repository with a Learn Lesson, the assets will upload to Cloudinary and the paths will automatically be converted to a hosted URL, e.g.:
+### 1. Sign up for a [dev.to](https://dev.to) account.
+I recommend signing in with GitHub so that you don't have to make up yet another password.
 
-```
-![](https://res.cloudinary.com/[CLOUD_NAME]/image/upload/[IMAGE_VERSION]/appdev-lessons/[REPO_NAME]/[BRANCH]/[IMAGE_NAME])
-```
+### 2. Start jotting down notes in your blog.
+You can save posts as drafts if you're not ready to share them yet.
+
+A great source of TIL blog posts are answers to questions you've asked and other discussions (your own or others). To really cement what you learned, re-write the answer to your question or discussion as a TIL post.
+
+### 3. Keep track of everyone's TIL blogs on [news.dpi.dev](https://news.dpi.dev).
+Someone else might have already written the answer to your question!
+
+<!-- TODO: write a question -->
+Submit the URL of your learning journal. It will look something like "https://dev.to/demostudent18"
