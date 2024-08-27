@@ -36,5 +36,27 @@ A great source of TIL blog posts are answers to questions you've asked and other
 Someone else might have already written the answer to your question!
 
 ### 4. Get Started
-<!-- TODO: write a question -->
 Submit the URL of your learning journal. It will look something like "https://dev.to/demostudent18"
+
+- Enter your `dev.to/username` profile URL:
+- dev.to
+  - Great job!
+- any
+  - Not quite. Make sure the URL looks like: `dev.to/username`
+{: .free_text #til_url title="TIL URL" points="1" answer="1" }
+
+
+<div class="alert alert-danger mt-2">
+
+
+After you submit the URL here, return to Canvas and submit the URL again in the assignment "Submit your TIL blog URL".
+
+
+An instructor will provide additional feedback on your submission there.
+</div>
+
+---
+
+- Approximately how long (in minutes) did this lesson take you to complete?
+{: .free_text_number #time_taken title="Time taken" points="1" answer="any" }
+
