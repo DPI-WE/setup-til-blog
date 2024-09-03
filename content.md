@@ -1,4 +1,4 @@
-# Setup your TIL (today I learned) Blog
+# Setup your TIL (Today I Learned) Blog
 
 ## Why?
 Keeping a learning journal is extremely valuable for software developers, for many reasons:
