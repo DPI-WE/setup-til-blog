@@ -20,7 +20,7 @@ Here are a few learning journals from past trainees:
 - [Kat Jarboe](https://dev.to/melo616)
 - [Mary Webby](https://dev.to/marywebby)
 
-We're going to use [dev.to](https://dev.to) for our blogs, for now. (In the future you can consider building your own blog — that would be a good exercise.)
+You can find even more learning journals at [https://news.dpi.dev](https://news.dpi.dev). We're going to use [dev.to](https://dev.to) for our blogs, for now. (In the future you can consider building your own blog — that would be a good exercise.)
 
 ## How
 
